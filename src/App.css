@@ -77,3 +77,11 @@ button {
   font-size: 2rem;
   color: darkred;
 }
+
+.reset {
+  display: inline-block;
+  font-size: 2rem;
+  padding: 0.2em;
+  background-color: green;
+  color: white;
+}
