@@ -10,10 +10,34 @@ button {
   font-size: 2.5rem;
 }
 
+.navbar {
+  background-color: wheat;
+  font-size: 2.5rem;
+  padding: 0.5em;
+}
+
+.navbar-icon {
+  color: green;
+  margin-right: 0.2em;
+}
+
+.navbar-count {
+  display: inline-block;
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 2rem;
+  text-align: center;
+  line-height: 2.5rem;
+  margin-left: 0.2em;
+  background-color: green;
+  color: white;
+  border-radius: 50%;
+}
+
 .habit {
   list-style: none;
   font-size: 2.5rem;
-  padding: 1em;
+  padding: 0.7em;
 }
 
 .habit-count {
